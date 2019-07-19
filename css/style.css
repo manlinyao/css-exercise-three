@@ -28,12 +28,12 @@ nav {
   background-color: #e5e5e5;
 }
 
-.location:hover {
+.content:hover {
   background-color: blue;
 }
 
 .location {
-  width: 75%;
+  width: 100%;
   box-sizing: border-box;
 }
 
@@ -50,7 +50,7 @@ nav {
 }
 
 .content, .arrow {
-  display:inline;
+  display: inline-block;
 }
 
 .content h1 {
